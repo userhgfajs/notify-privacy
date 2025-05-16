@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms of Service - Notify</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4A90E2;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: white;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+    h1, h2 {
+      color: #4A90E2;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+    a {
+      color: #4A90E2;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Terms of Service</h1>
+  <p>ReactGram - Chat and Social Media App</p>
+</header>
+
+<main>
+  <p><strong>Last updated:</strong> May 16, 2025</p>
+
+  <h2>1. Acceptance of Terms</h2>
+  <p>By using Notify, you agree to these Terms. If you do not agree, please do not use the service.</p>
+
+  <h2>2. Description of Service</h2>
+  <p>Notify allows users to chat, share content, and interact socially online. You may be required to sign in via Google OAuth to access full functionality.</p>
+
+  <h2>3. User Responsibilities</h2>
+  <ul>
+    <li>Use the app for lawful purposes only.</li>
+    <li>Do not harass, abuse, or impersonate others.</li>
+    <li>Do not share illegal or offensive content.</li>
+    <li>Do not attempt to harm the service or its users.</li>
+  </ul>
+
+  <h2>4. Privacy</h2>
+  <p>Your information is handled according to our 
+    <a href="https://userhgfajs.github.io/notify-privacy/privacy.html" target="_blank">Privacy Policy</a>.
+  </p>
+
+  <h2>5. Account Termination</h2>
+  <p>We may suspend or terminate accounts violating these terms or abusing the service.</p>
+
+  <h2>6. Modifications</h2>
+  <p>We may update these Terms at any time. Continued use means you accept any changes.</p>
+
+  <h2>7. Contact</h2>
+  <p>If you have any questions, please contact us at: <br />
+    <a href="mailto:developer.getnotify@gmail.com">developer.getnotify@gmail.com</a>
+  </p>
+</main>
+
+<footer>
+  &copy; 2025 Notify. All rights reserved.
+</footer>
+
+</body>
+</html>
